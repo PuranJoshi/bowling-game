@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Problem.Bowling", "Coding.Problem.Bowling\Coding.Problem.Bowling.csproj", "{65EA61F0-8035-4A15-A6EE-B6EFB4511BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Problem.Bowling.Tests", "Coding.Problem.Bowling.Tests\Coding.Problem.Bowling.Tests.csproj", "{576DE755-ABF6-4160-8F20-52A5FD35BB1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EA61F0-8035-4A15-A6EE-B6EFB4511BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EA61F0-8035-4A15-A6EE-B6EFB4511BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EA61F0-8035-4A15-A6EE-B6EFB4511BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EA61F0-8035-4A15-A6EE-B6EFB4511BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576DE755-ABF6-4160-8F20-52A5FD35BB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576DE755-ABF6-4160-8F20-52A5FD35BB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576DE755-ABF6-4160-8F20-52A5FD35BB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576DE755-ABF6-4160-8F20-52A5FD35BB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DE57C7-1DD5-44DE-8A43-B03B1A1E64BE}
+	EndGlobalSection
+EndGlobal
